@@ -1,0 +1,16 @@
+D:\project-19_20\charan\New_Projects\bank_ef_rahul_final\Final\CodeFirst\CodeFirst\Business\bin\Release\Business.dll.config
+D:\project-19_20\charan\New_Projects\bank_ef_rahul_final\Final\CodeFirst\CodeFirst\Business\bin\Release\Business.dll
+D:\project-19_20\charan\New_Projects\bank_ef_rahul_final\Final\CodeFirst\CodeFirst\Business\bin\Release\Business.pdb
+D:\project-19_20\charan\New_Projects\bank_ef_rahul_final\Final\CodeFirst\CodeFirst\Business\bin\Release\EntityFramework.dll
+D:\project-19_20\charan\New_Projects\bank_ef_rahul_final\Final\CodeFirst\CodeFirst\Business\bin\Release\EntityFramework.SqlServer.dll
+D:\project-19_20\charan\New_Projects\bank_ef_rahul_final\Final\CodeFirst\CodeFirst\Business\bin\Release\EntityFramework.xml
+D:\project-19_20\charan\New_Projects\bank_ef_rahul_final\Final\CodeFirst\CodeFirst\Business\bin\Release\EntityFramework.SqlServer.xml
+D:\project-19_20\charan\New_Projects\bank_ef_rahul_final\Final\CodeFirst\CodeFirst\Business\obj\Release\DataAccessLayer.csproj.AssemblyReference.cache
+D:\project-19_20\charan\New_Projects\bank_ef_rahul_final\Final\CodeFirst\CodeFirst\Business\obj\Release\DataAccessLayer.Migrations.Updates.resources
+D:\project-19_20\charan\New_Projects\bank_ef_rahul_final\Final\CodeFirst\CodeFirst\Business\obj\Release\DataAccessLayer.Migrations.Updatess.resources
+D:\project-19_20\charan\New_Projects\bank_ef_rahul_final\Final\CodeFirst\CodeFirst\Business\obj\Release\DataAccessLayer.Migrations.Updated.resources
+D:\project-19_20\charan\New_Projects\bank_ef_rahul_final\Final\CodeFirst\CodeFirst\Business\obj\Release\DataAccessLayer.csproj.GenerateResource.cache
+D:\project-19_20\charan\New_Projects\bank_ef_rahul_final\Final\CodeFirst\CodeFirst\Business\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\project-19_20\charan\New_Projects\bank_ef_rahul_final\Final\CodeFirst\CodeFirst\Business\obj\Release\DataAccessLayer.csproj.CopyComplete
+D:\project-19_20\charan\New_Projects\bank_ef_rahul_final\Final\CodeFirst\CodeFirst\Business\obj\Release\Business.dll
+D:\project-19_20\charan\New_Projects\bank_ef_rahul_final\Final\CodeFirst\CodeFirst\Business\obj\Release\Business.pdb

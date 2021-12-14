@@ -1,0 +1,12 @@
+D:\project-19_20\charan\New_Projects\CodeFirst\CodeFirst\Business\bin\Debug\Business.dll.config
+D:\project-19_20\charan\New_Projects\CodeFirst\CodeFirst\Business\bin\Debug\Business.dll
+D:\project-19_20\charan\New_Projects\CodeFirst\CodeFirst\Business\bin\Debug\Business.pdb
+D:\project-19_20\charan\New_Projects\CodeFirst\CodeFirst\Business\bin\Debug\EntityFramework.dll
+D:\project-19_20\charan\New_Projects\CodeFirst\CodeFirst\Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\project-19_20\charan\New_Projects\CodeFirst\CodeFirst\Business\bin\Debug\EntityFramework.xml
+D:\project-19_20\charan\New_Projects\CodeFirst\CodeFirst\Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\project-19_20\charan\New_Projects\CodeFirst\CodeFirst\Business\obj\Debug\Business.dll
+D:\project-19_20\charan\New_Projects\CodeFirst\CodeFirst\Business\obj\Debug\Business.pdb
+D:\project-19_20\charan\New_Projects\CodeFirst\CodeFirst\Business\obj\Debug\Business.Migrations.Initial.resources
+D:\project-19_20\charan\New_Projects\CodeFirst\CodeFirst\Business\obj\Debug\Business.csproj.GenerateResource.Cache
+D:\project-19_20\charan\New_Projects\CodeFirst\CodeFirst\Business\obj\Debug\Business.Migrations.Accounts.resources

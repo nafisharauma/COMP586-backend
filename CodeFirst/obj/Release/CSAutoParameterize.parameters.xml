@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="BankingDb-Web.config Connection String" description="BankingDb Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:onlinebanking.database.windows.net,1433;Initial Catalog=banking_db;Persist Security Info=False;User ID=banking_user;Password=Password@123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\project-19_20\\charan\\New_Projects\\bank_ef_rahul_final\\Final\\CodeFirst\\CodeFirst\\CodeFirst\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BankingDb']/@connectionString" />
+  </parameter>
+</parameters>
