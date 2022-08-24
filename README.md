@@ -1,1 +1,1 @@
-# BankingProject-backednd
+# COMP586-backend
